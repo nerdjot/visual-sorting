@@ -1,0 +1,13 @@
+.bar-graph{
+    flex-direction: row;
+    height: 80%;
+    width: 80%;
+    background-color: white;
+    position: relative;
+    display: flex;
+    margin: auto;
+}
+
+.bar{
+    bottom: 0px;
+}
